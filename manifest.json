@@ -8,6 +8,6 @@
       "type": "image/x-icon"
     }
   ],
-  "start_url": ".",
+  "start_url": "/portfolio-site/",
   "display": "standalone"
 }
